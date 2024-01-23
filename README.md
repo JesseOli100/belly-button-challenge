@@ -28,3 +28,8 @@ Use otu_ids for the marker colors.
 Use otu_labels for the text values.
 
 ![image](https://github.com/JesseOli100/belly-button-challenge/assets/62526904/6dff58e6-14a8-42fa-80f4-c795c4ea761b)
+
+Display the sample metadata, i.e., an individual's demographic information.
+
+Display each key-value pair from the metadata JSON object somewhere on the page.
+
