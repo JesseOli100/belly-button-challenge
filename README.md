@@ -50,3 +50,7 @@ You will need to modify the example gauge code to account for values ranging fro
 
 Update the chart whenever a new sample is selected.
 
+![image](https://github.com/JesseOli100/belly-button-challenge/assets/62526904/22fb67c8-1424-4a82-9be8-5536ec3974e2)
+
+
+
