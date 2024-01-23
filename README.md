@@ -12,3 +12,7 @@ Use sample_values as the values for the bar chart.
 Use otu_ids as the labels for the bar chart.
 
 Use otu_labels as the hovertext for the chart.
+
+![image](https://github.com/JesseOli100/belly-button-challenge/assets/62526904/5c301c70-aa20-4963-aab7-4ee6c53aad4c)
+
+
