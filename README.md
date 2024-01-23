@@ -37,3 +37,5 @@ Display each key-value pair from the metadata JSON object somewhere on the page.
 
 Update all the plots when a new sample is selected. Additionally, you are welcome to create any layout that you would like for your dashboard. An example dashboard is shown as follows:
 
+![image](https://github.com/JesseOli100/belly-button-challenge/assets/62526904/946c2a77-ce1c-4598-a5ad-bf0df85a8d9d)
+
