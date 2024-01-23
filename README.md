@@ -33,3 +33,7 @@ Display the sample metadata, i.e., an individual's demographic information.
 
 Display each key-value pair from the metadata JSON object somewhere on the page.
 
+![Snip20240122_20](https://github.com/JesseOli100/belly-button-challenge/assets/62526904/f0685896-06c2-4edd-b8fc-8aea31b7d3a3)
+
+Update all the plots when a new sample is selected. Additionally, you are welcome to create any layout that you would like for your dashboard. An example dashboard is shown as follows:
+
